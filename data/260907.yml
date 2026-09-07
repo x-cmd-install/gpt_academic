@@ -5,13 +5,13 @@ about:
   head: d6bde0f
   archived: false
   latestVersion: "version3.91"
-  collectedAt: 2026-09-07T04:57:20Z
+  collectedAt: 2026-09-07T19:39:42Z
 timeline:
   created: 2023-03-20
   lastCommit: 2026-01-25
   lastRelease: 2024-12-19
 popularity:
-  star: 71296
+  star: 71300
   watcher: 297
   fork: 8316
   release: 32
@@ -83,7 +83,7 @@ total:
   commit: 2403
 ---
 path: /home/runner/.x-repo/github.com/binary-husky/gpt_academic
-collectedAt: 2026-09-07T04:57:23Z
+collectedAt: 2026-09-07T19:39:47Z
 loc:
   Python:
     code: 50365
@@ -149,7 +149,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:57:24+00:00
+  collectedAt: 2026-09-07T19:39:48+00:00
   platform:
     darwin/arm64:
       name:  null
