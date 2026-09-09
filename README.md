@@ -7,7 +7,7 @@
 - **Latest release**: `version3.91` (2024-12-19)
 - **Last commit**: 2026-01-25
 - **License**: GPL-3.0
-- **Stars**: 71311 · **Forks**: 8316 · **Open issues**: 1784 · **Contributors**: 105
+- **Stars**: 71314 · **Forks**: 8316 · **Open issues**: 1784 · **Contributors**: 105
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gpt_academic> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:05:20Z._
+_Last regenerated: 2026-09-09T19:02:19Z._
