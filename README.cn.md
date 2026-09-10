@@ -4,7 +4,7 @@
 
 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
-![gpt_academic](https://repo.x-cmd.io/gpt_academic.svg)
+![gpt_academic](https://repo.x-cmd.io/gpt_academic.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,16 @@ x install gpt_academic
 - **最新版本**: `version3.91` (2024-12-19)
 - **最近提交**: 2026-01-25
 - **Release 含资产**: 1 个
-- **发布时间**: 2024-12-19T14:28:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
 
 ## 流行度
 
-- **Star**: 71,315 · **Fork**: 8,316 · **开放 issue**: 1,784 · **贡献者**: 105
+- **Star**: 71,325 · **Fork**: 8,315 · **开放 issue**: 1,784 · **贡献者**: 105
 
 ## 累计统计
 
@@ -62,4 +67,4 @@ gpt_academic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:44Z._

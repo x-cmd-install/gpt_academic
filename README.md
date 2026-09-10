@@ -23,11 +23,16 @@ x install gpt_academic
 - **Latest**: `version3.91` (2024-12-19)
 - **Last commit**: 2026-01-25
 - **Assets in release**: 1
-- **Published**: 2024-12-19T14:28:53Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
 
 ## Popularity
 
-- **Stars**: 71,315 · **Forks**: 8,316 · **Open issues**: 1,784 · **Contributors**: 105
+- **Stars**: 71,325 · **Forks**: 8,315 · **Open issues**: 1,784 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -58,8 +63,8 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 Install metadata for gpt_academic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gpt_academic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gpt_academic.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gpt_academic.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:59:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:43Z._
