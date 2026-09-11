@@ -7,7 +7,7 @@ about:
   latestVersion: "version3.91"
   latestRelease: "version3.91"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:04:11Z
+  collectedAt: 2026-09-11T04:59:41Z
 timeline:
   created: 2023-03-20
   lastCommit: 2026-01-25
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2024-12-19
   lastPrerelease: 
 popularity:
-  star: 71325
+  star: 71327
   watcher: 297
-  fork: 8316
+  fork: 8318
   release: 32
   contributor: 105
   pullRequest: 371
@@ -87,7 +87,7 @@ total:
   commit: 2403
 ---
 path: /home/runner/.x-repo/github.com/binary-husky/gpt_academic
-collectedAt: 2026-09-11T00:04:18Z
+collectedAt: 2026-09-11T04:59:44Z
 loc:
   Python:
     code: 50365
