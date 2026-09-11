@@ -12,6 +12,18 @@
 x install gpt_academic
 ```
 
+## Code insight
+
+Total: **75,484** lines of code across **321** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 50,365 | 4,492 | 7,334 | 275 |
+| Json | 10,143 | 0 | 0 | 6 |
+| JavaScript | 7,474 | 618 | 543 | 19 |
+| Css | 6,910 | 1,021 | 1,209 | 19 |
+| Yaml | 256 | 89 | 41 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/binary-husky/gpt_academic>
@@ -24,15 +36,9 @@ x install gpt_academic
 - **Last commit**: 2026-01-25
 - **Assets in release**: 1
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
-
 ## Popularity
 
-- **Stars**: 71,325 · **Forks**: 8,315 · **Open issues**: 1,784 · **Contributors**: 105
+- **Stars**: 71,325 · **Forks**: 8,316 · **Open issues**: 1,784 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -42,21 +48,18 @@ x install gpt_academic
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 7 | 0 |
-| 360d | 2025-09-15 | 0 | 2 | 12 | 7 | 36 | 4 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 7 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 7 | 5 | 23 | 0 |
+| 360d | 2025-09-16 | 0 | 2 | 12 | 7 | 36 | 4 |
+| last720d | 2024-09-21 | 2 | 33 | 23 | 50 | 158 | 189 |
 
-## Code size
+## Release assets
 
-Total: **75,484** lines of code across **321** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 50,365 | 4,492 | 7,334 | 275 |
-| Json | 10,143 | 0 | 0 | 6 |
-| JavaScript | 7,474 | 618 | 543 | 19 |
-| Css | 6,910 | 1,021 | 1,209 | 19 |
-| Yaml | 256 | 89 | 41 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -67,4 +70,4 @@ Install metadata for gpt_academic lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:04:33Z._

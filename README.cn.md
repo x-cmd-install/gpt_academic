@@ -12,6 +12,18 @@
 x install gpt_academic
 ```
 
+## 代码洞察
+
+合计: **75,484** 行代码（覆盖前 5 种语言、共 **321** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 50,365 | 4,492 | 7,334 | 275 |
+| Json | 10,143 | 0 | 0 | 6 |
+| JavaScript | 7,474 | 618 | 543 | 19 |
+| Css | 6,910 | 1,021 | 1,209 | 19 |
+| Yaml | 256 | 89 | 41 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/binary-husky/gpt_academic>
@@ -24,15 +36,9 @@ x install gpt_academic
 - **最近提交**: 2026-01-25
 - **Release 含资产**: 1 个
 
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
-
 ## 流行度
 
-- **Star**: 71,325 · **Fork**: 8,315 · **开放 issue**: 1,784 · **贡献者**: 105
+- **Star**: 71,325 · **Fork**: 8,316 · **开放 issue**: 1,784 · **贡献者**: 105
 
 ## 累计统计
 
@@ -42,21 +48,18 @@ x install gpt_academic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 7 | 0 |
-| 360d | 2025-09-15 | 0 | 2 | 12 | 7 | 36 | 4 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 7 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 7 | 5 | 23 | 0 |
+| 360d | 2025-09-16 | 0 | 2 | 12 | 7 | 36 | 4 |
+| last720d | 2024-09-21 | 2 | 33 | 23 | 50 | 158 | 189 |
 
-## 代码规模
+## Release 资产
 
-合计: **75,484** 行代码（覆盖前 5 种语言、共 **321** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 50,365 | 4,492 | 7,334 | 275 |
-| Json | 10,143 | 0 | 0 | 6 |
-| JavaScript | 7,474 | 618 | 543 | 19 |
-| Css | 6,910 | 1,021 | 1,209 | 19 |
-| Yaml | 256 | 89 | 41 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [OneKeyInstallerForWindowsAndMacOS.zip](https://github.com/binary-husky/gpt_academic/releases/download/version3.91/OneKeyInstallerForWindowsAndMacOS.zip) | 17.9 KiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -67,4 +70,4 @@ gpt_academic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:44Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:04:34Z._
