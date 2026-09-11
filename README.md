@@ -38,7 +38,7 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,325 · **Forks**: 8,316 · **Open issues**: 1,784 · **Contributors**: 105
+- **Stars**: 71,327 · **Forks**: 8,318 · **Open issues**: 1,784 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -70,4 +70,4 @@ Install metadata for gpt_academic lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:04:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:59:47Z._
