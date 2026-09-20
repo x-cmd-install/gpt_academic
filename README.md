@@ -4,7 +4,7 @@
 
 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
-![gpt_academic](https://repo.x-cmd.io/gpt_academic.svg)
+[![x-cmd/install — gpt_academic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gpt_academic.svg)](https://x-cmd.com/install/gpt_academic)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,359 · **Forks**: 8,318 · **Open issues**: 1,784 · **Contributors**: 105
+- **Stars**: 71,365 · **Forks**: 8,315 · **Open issues**: 1,784 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 228 · **Open PRs**: 34 · **Closed issues**: 1486 · **Open issues**: 298 · **Commits**: 2403
+- **Releases**: 32 · **Merged PRs**: 228 · **Open PRs**: 33 · **Closed issues**: 1487 · **Open issues**: 297 · **Commits**: 2403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 3 | 0 | 4 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 3 | 0 | 6 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 9 | 5 | 23 | 0 |
-| 360d | 2025-09-23 | 0 | 2 | 14 | 7 | 35 | 3 |
-| last720d | 2024-09-28 | 2 | 32 | 24 | 48 | 152 | 182 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 2 | 0 | 5 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 7 | 5 | 22 | 0 |
+| 360d | 2025-09-25 | 0 | 2 | 13 | 7 | 35 | 3 |
+| last720d | 2024-09-30 | 2 | 32 | 23 | 48 | 152 | 181 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for gpt_academic lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:06:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:45Z._

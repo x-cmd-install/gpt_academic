@@ -4,7 +4,7 @@
 
 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 
-![gpt_academic](https://repo.x-cmd.io/gpt_academic.svg?lang=zh)
+[![x-cmd/install — gpt_academic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gpt_academic.svg?lang=zh)](https://x-cmd.com/install/gpt_academic)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install gpt_academic
 
 ## 流行度
 
-- **Star**: 71,359 · **Fork**: 8,318 · **开放 issue**: 1,784 · **贡献者**: 105
+- **Star**: 71,365 · **Fork**: 8,315 · **开放 issue**: 1,784 · **贡献者**: 105
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 228 · **开放 PR**: 34 · **已关闭 issue**: 1486 · **开放 issue**: 298 · **提交数**: 2403
+- **发布数**: 32 · **已合并 PR**: 228 · **开放 PR**: 33 · **已关闭 issue**: 1487 · **开放 issue**: 297 · **提交数**: 2403
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 3 | 0 | 4 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 3 | 0 | 6 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 9 | 5 | 23 | 0 |
-| 360d | 2025-09-23 | 0 | 2 | 14 | 7 | 35 | 3 |
-| last720d | 2024-09-28 | 2 | 32 | 24 | 48 | 152 | 182 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 2 | 0 | 5 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 7 | 5 | 22 | 0 |
+| 360d | 2025-09-25 | 0 | 2 | 13 | 7 | 35 | 3 |
+| last720d | 2024-09-30 | 2 | 32 | 23 | 48 | 152 | 181 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ gpt_academic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:06:41Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:14:46Z._
