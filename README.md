@@ -38,22 +38,22 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,598 · **Forks**: 8,319 · **Open issues**: 1,787 · **Contributors**: 105
+- **Stars**: 71,602 · **Forks**: 8,319 · **Open issues**: 1,788 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 228 · **Open PRs**: 32 · **Closed issues**: 1488 · **Open issues**: 299 · **Commits**: 2403
+- **Releases**: 32 · **Merged PRs**: 228 · **Open PRs**: 32 · **Closed issues**: 1488 · **Open issues**: 300 · **Commits**: 2403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last180d | 2026-05-06 | 0 | 0 | 3 | 1 | 11 | 0 |
-| 360d | 2025-11-07 | 0 | 2 | 13 | 8 | 33 | 3 |
-| last720d | 2024-11-12 | 1 | 23 | 21 | 46 | 126 | 112 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-04 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-05 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-05-07 | 0 | 0 | 3 | 1 | 12 | 0 |
+| 360d | 2025-11-08 | 0 | 2 | 13 | 8 | 34 | 3 |
+| last720d | 2024-11-13 | 1 | 23 | 21 | 46 | 126 | 112 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for gpt_academic lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:23:48Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:05:32Z._
