@@ -38,7 +38,7 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,726 · **Forks**: 8,290 · **Open issues**: 1,786 · **Contributors**: 105
+- **Stars**: 71,734 · **Forks**: 8,291 · **Open issues**: 1,786 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **75,484** lines of code across **321** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 4 | 1 | 9 | 0 |
-| 360d | 2025-12-02 | 0 | 2 | 14 | 8 | 31 | 3 |
-| last720d | 2024-12-07 | 1 | 19 | 22 | 39 | 110 | 99 |
+| 30d | 2026-10-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-06-01 | 0 | 0 | 3 | 1 | 9 | 0 |
+| 360d | 2025-12-03 | 0 | 2 | 14 | 8 | 31 | 3 |
+| last720d | 2024-12-08 | 1 | 19 | 22 | 39 | 110 | 90 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for gpt_academic lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:56:12Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:02:27Z._
